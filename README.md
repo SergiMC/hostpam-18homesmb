@@ -12,7 +12,7 @@ Per poder realitzar el mount cal que el container es configuri amb l'opció **--
 #### Execució
 
 ```
-docker run --rm --name host -h host --net ldapnet --privileged -it sergimc/hostpam:19smb
+docker run --rm --name host -h host --net ldapnet --privileged -it sergimc/hostpam:18homesmb
 ```
 
 #### Configuracions de fitxers per al host pam
