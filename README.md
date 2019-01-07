@@ -5,7 +5,7 @@ Podeu trobar les imatges docker al Dockerhub de [sergimc](https://hub.docker.com
 
 Repositori d'exemples de containers docker que utilitzen PAM
 
- * **hostpam:19smb** host pam amb authenticació ldap. 
+ * **hostpam:18homesmb** host pam amb authenticació ldap. 
 Crea els home dels usuaris i munta un cifs als usuaris.
 Per poder realitzar el mount cal que el container es configuri amb l'opció **--privileged**.
 
